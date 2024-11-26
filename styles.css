@@ -29,21 +29,21 @@ h2 {
 #crypto1 {
 	text-align: center;
 	margin-bottom: 10px;
-	margin-top: 200px;
+	margin-top: 10px;
 	margin-left: -50%;
 }
 
 #crypto2 {
 	text-align: center;
 	margin-bottom: 10px;
-	margin-top: 200px;
+	margin-top: 10px;
 	margin-left: -50%;
 }
 
 #crypto3 {
 	text-align: center;
 	margin-bottom: 10px;
-	margin-top: 200px;
+	margin-top: 10px;
 	margin-left: -50%;
 }
 
@@ -53,10 +53,7 @@ h3 {
 }
 
 table {
-	margin-left: 63%;
-	margin-top: -20%;
 	text-align: center;
-
 }
 
 p {
