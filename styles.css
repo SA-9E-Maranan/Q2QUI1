@@ -4,12 +4,15 @@ body {
 
 
 img {
-	width: 100px;
-	height: 50px;
+	width: 200px;
+	height: 150px;
 	max-width: 400px;
 	max-height: 400px;
 	text-align: center;
 	margin-top: -3%;
+	background-color: #f8f9fa;
+	padding: 20px;
+	border-radius: 10px;
 }
 
 #title {
@@ -17,8 +20,6 @@ img {
 	margin-top: 20px;
 	background-color: #d4c8a7;
 	border-radius: 10px;
-	margin-left: 20px;
-	margin-right:20px;
 }
 
 h2 {
@@ -29,36 +30,37 @@ h2 {
 #crypto1 {
 	text-align: center;
 	margin-bottom: 10px;
-	margin-top: 10px;
-	margin-left: 30%;
-	width: 200px;
-	height: 130px;
+	margin-top: 5%;
+	margin-left: 5%;
+
 }
 
 #crypto2 {
 	text-align: center;
-	margin-bottom: 10px;
-	margin-top: 10px;
-	margin-left: 30%;
-	width: 200px;
-	height: 130px;
+	margin-bottom: 10%;
+	margin-top: 5%;
+	margin-left: 5%;
+	
 }
 
 #crypto3 {
 	text-align: center;
-	margin-bottom: 10px;
-	margin-top: 10px;
-	margin-left: 30%;
-	width: 200px;
-	height: 130px;
+	margin-bottom: 10%;
+	margin-top: 5%;
+	margin-left: 5%;
 }
 
 h3 {
 	margin-top: 20px;
-	font-family: Raleway;
+	font-family: Doto;
+	font-weight: bolder;
+	color: white;
+	margin-top: 5px;
 }
 
 table {
+	margin-left: -5%;
+	margin-top: -2%;
 	text-align: center;
 }
 
